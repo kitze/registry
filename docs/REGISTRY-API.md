@@ -106,7 +106,7 @@
 |------    |-------    |------    |-----------    |-------    |
 | package | String | **Path**  | ✅         | the name of the package |
 
-This endpoint responds with the package metadata document, sometimes informally called a "packument" or "doc.json". The format of the response is described in detail in the [package metadata documentation](responses/package-metadata.md).
+This endpoint responds with the package metadata document or "doc.json". The format of the response is described in detail in the [package metadata documentation](responses/package-metadata.md).
 
 #### `GET·/{package}/{version}`
 
